@@ -10,6 +10,7 @@
     ],
     "homepage": "https://github.com/mprince2k18/laravel-viber-bot",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Nemanja Ivankovic",
