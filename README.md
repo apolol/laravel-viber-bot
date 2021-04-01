@@ -8,7 +8,7 @@
 This package can be installed through Composer.
 
 ``` bash
-composer require paragraf-lex/viber-bot
+composer require mprince/laravel-viber-bot
 ```
 
 In Laravel 5.5 and above the package will autoregister the service provider. In Laravel 5.4 you must install this service provider.
