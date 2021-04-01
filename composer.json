@@ -1,6 +1,6 @@
 {
-    "name": "paragraf-lex/viber-bot",
-    "description": "Viber bot for PHP for Laravel",
+    "name": "mprince/laravel-viber-bot",
+    "description": "Viber bot for Laravel",
     "keywords": [
         "paragraf",
         "viber",
@@ -8,13 +8,19 @@
         "laravel",
         "php"
     ],
-    "homepage": "https://github.com/paragraf-lex/viber-bot",
+    "homepage": "https://github.com/mprince2k18/laravel-viber-bot",
     "license": "MIT",
     "authors": [
         {
             "name": "Nemanja Ivankovic",
             "email": "nemanja.ivankovic@paragraf.rs",
             "homepage": "https://paragraf.rs",
+            "role": "Developer"
+        },
+        {
+            "name": "Mohammad Prince",
+            "email": "mprince2k16@gmail.com",
+            "homepage": "https://github.com/mprince2k18",
             "role": "Developer"
         }
     ],
