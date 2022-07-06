@@ -8,7 +8,7 @@
 
 namespace Paragraf\ViberBot\Messages;
 
-use Paragraf\ViberBot\TextMessage;
+use Paragraf\ViberBot\Messages\TextMessage;
 use Paragraf\ViberBot\Intefaces\MessageInterface;
 
 class BroadcastMessage extends TextMessage implements MessageInterface
