@@ -1,6 +1,6 @@
 <?php
 
-namespace Paragraf\ViberBot;
+namespace Paragraf\ViberBot\Messages;
 
 use Paragraf\ViberBot\Messages\Message;
 use Paragraf\ViberBot\Intefaces\MessageInterface;
