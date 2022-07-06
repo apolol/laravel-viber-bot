@@ -84,7 +84,7 @@ class Client
             }
 
             if (count($broadcast) < 300) {
-                Http::call('POST', 'broadcast_message', (new BroadcastMessage())->setBroadcast($broadcast)->body());
+                Http::call('POST', 'broadcast_message', (new BroadcastMessage())->setBroadcast($broadcast)->setText($text)->body());
             }
 
             return;
